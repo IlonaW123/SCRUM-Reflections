@@ -1,0 +1,1 @@
+Nie ma jednoznacznej odpowiedzi na pytanie według czego musi byc posortowany backlog. Zazwyczaj Product Owner ustala priorytety w zależności od aktualnych wymagań. 
